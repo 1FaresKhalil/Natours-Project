@@ -1,2 +1,2 @@
 # Natours-Project
-Sass Project about tours and travelling
+Sass project about tours and travelling
