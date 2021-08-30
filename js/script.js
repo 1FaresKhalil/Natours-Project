@@ -1,3 +1,4 @@
+// nav functionality
 const btnNav = document.querySelector(".navigation__button");
 const icon = document.querySelector(".navigation__icon");
 const navigation = document.querySelector(".navigation__nav");
